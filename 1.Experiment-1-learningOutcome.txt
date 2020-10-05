@@ -1,0 +1,4 @@
+installing cicso packet tracer
+got to learn about how to Configure PC's 
+and how to setup conection between differnt PCs and Connection between HUB AND SWITCH
+and trying to answer the quiz on pc configure
