@@ -1,0 +1,6 @@
+------------------------Demonstrate th Hub and Switch-------------------- 
+>Taking tow pc's and connecting them hub
+>Taking tow pc's and connecting them Switch
+>configureing pc's
+>passing Message to one pc to another
+>connecting both hub and switch
